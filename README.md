@@ -9,11 +9,11 @@ Consultant:
 Savvy Schy
 
 Resources Used
--Python
--scikit-learn
--Instacart Market Basket Analysis Dataset (Kaggle)
--Instacart.com (image source)
--Instacart API (scraping implemented with local rate limiting and network routing tools)
+Python,
+Scikit-learn,
+Instacart Market Basket Analysis Dataset (Kaggle),
+Instacart.com (image source),
+Instacart API (scraping implemented with local rate limiting and network routing tools)
 
 Data Access Instructions
 Dataset:
